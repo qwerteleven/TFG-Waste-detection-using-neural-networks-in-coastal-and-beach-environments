@@ -1,0 +1,64 @@
+Aerosol,Can
+Aluminium blister pack,Metal
+Aluminium foil,Metal
+Battery,Other
+Bread bag,Plastic 
+Broken glass,Glass
+Carded blister pack,Other
+Cereal bag,Plastic 
+Cigarette,Other
+Clear plastic bottle,Plastic 
+Corrugated carton,Carton
+Crisp packet,Wrapper
+Disposable food container,Plastic 
+Disposable plastic cup,Cup
+Drink can,Can
+Drink carton,Carton
+Egg carton,Carton
+Foam cup,Cup
+Foam food container,Plastic 
+Food Can,Can
+Food waste,Other
+Garbage bag,Plastic 
+Glass bottle,Glass
+Glass cup,Glass
+Glass jar,Glass
+Magazine paper,Paper
+Meal carton,Carton
+Metal bottle cap,Metal
+Metal lid,Metal
+Normal paper,Paper
+Other carton,Carton
+Other plastic,Plastic 
+Other plastic bottle,Plastic 
+Other plastic container,Plastic 
+Other plastic cup,Cup
+Other plastic wrapper,Wrapper
+Paper bag,Paper
+Paper cup,Cup
+Paper straw,Straw
+Pizza box,Carton
+Plastic bottle cap,Plastic 
+Plastic film,Plastic 
+Plastic glooves,Plastic 
+Plastic lid,Plastic 
+Plastic straw,Straw
+Plastic utensils,Plastic 
+Plastified paper bag,Paper
+Polypropylene bag,Plastic 
+Pop tab,Pop tab
+Produce bag,Plastic 
+Retort pouch,Wrapper
+Rope & strings,String/rope
+Scrap metal,Metal
+Shoe,String/rope
+Single-use carrier bag,Plastic 
+Six pack rings,Plastic 
+Spread tub,Plastic 
+Squeezable tube,Other
+Styrofoam piece,Plastic 
+Tissues,Paper
+Toilet tube,Carton
+Tupperware,Plastic 
+Unlabeled litter,Other
+Wrapping paper,Paper
