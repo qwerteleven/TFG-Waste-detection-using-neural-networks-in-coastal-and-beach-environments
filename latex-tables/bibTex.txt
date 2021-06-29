@@ -1,0 +1,389 @@
+@article{DBLP:journals/corr/abs-1810-04805,
+  author    = {Jacob Devlin and
+               Ming{-}Wei Chang and
+               Kenton Lee and
+               Kristina Toutanova},
+  title     = {{BERT:} Pre-training of Deep Bidirectional Transformers for Language
+               Understanding},
+  journal   = {CoRR},
+  volume    = {abs/1810.04805},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1810.04805},
+  archivePrefix = {arXiv},
+  eprint    = {1810.04805},
+  timestamp = {Tue, 30 Oct 2018 20:39:56 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1810-04805.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/VaswaniSPUJGKP17,
+  author    = {Ashish Vaswani and
+               Noam Shazeer and
+               Niki Parmar and
+               Jakob Uszkoreit and
+               Llion Jones and
+               Aidan N. Gomez and
+               Lukasz Kaiser and
+               Illia Polosukhin},
+  title     = {Attention Is All You Need},
+  journal   = {CoRR},
+  volume    = {abs/1706.03762},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1706.03762},
+  archivePrefix = {arXiv},
+  eprint    = {1706.03762},
+  timestamp = {Sat, 23 Jan 2021 01:20:40 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/VaswaniSPUJGKP17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{inproceedings,
+author = {Carolis, Berardina and Ladogana, Francesco and Macchiarulo, Nicola},
+year = {2020},
+month = {05},
+pages = {1-7},
+title = {YOLO TrashNet: Garbage Detection in Video Streams},
+doi = {10.1109/EAIS48028.2020.9122693}
+}
+
+@article{DBLP:journals/corr/abs-2002-09402,
+  author    = {Angela Fan and
+               Thibaut Lavril and
+               Edouard Grave and
+               Armand Joulin and
+               Sainbayar Sukhbaatar},
+  title     = {Accessing Higher-level Representations in Sequential Transformers
+               with Feedback Memory},
+  journal   = {CoRR},
+  volume    = {abs/2002.09402},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2002.09402},
+  archivePrefix = {arXiv},
+  eprint    = {2002.09402},
+  timestamp = {Mon, 02 Mar 2020 16:46:06 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2002-09402.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2003-06975,
+  author    = {Pedro F. Proen{\c{c}}a and
+               Pedro Sim{\~{o}}es},
+  title     = {{TACO:} Trash Annotations in Context for Litter Detection},
+  journal   = {CoRR},
+  volume    = {abs/2003.06975},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2003.06975},
+  archivePrefix = {arXiv},
+  eprint    = {2003.06975},
+  timestamp = {Tue, 17 Mar 2020 14:18:27 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2003-06975.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1908-05849,
+  author    = {Siddhant Bansal and
+               Seema Patel and
+               Ishita Shah and
+               Alpesh Patel and
+               Jagruti Makwana and
+               Rajesh Amratlal Thakker},
+  title     = {{AGDC:} Automatic Garbage Detection and Collection},
+  journal   = {CoRR},
+  volume    = {abs/1908.05849},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1908.05849},
+  archivePrefix = {arXiv},
+  eprint    = {1908.05849},
+  timestamp = {Fri, 26 Mar 2021 08:28:27 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1908-05849.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1904-03181,
+  author    = {Ankan Bansal and
+               Sai Saketh Rambhatla and
+               Abhinav Shrivastava and
+               Rama Chellappa},
+  title     = {Detecting Human-Object Interactions via Functional Generalization},
+  journal   = {CoRR},
+  volume    = {abs/1904.03181},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1904.03181},
+  archivePrefix = {arXiv},
+  eprint    = {1904.03181},
+  timestamp = {Wed, 24 Apr 2019 12:21:25 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1904-03181.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2004-10934,
+  author    = {Alexey Bochkovskiy and
+               Chien{-}Yao Wang and
+               Hong{-}Yuan Mark Liao},
+  title     = {YOLOv4: Optimal Speed and Accuracy of Object Detection},
+  journal   = {CoRR},
+  volume    = {abs/2004.10934},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2004.10934},
+  archivePrefix = {arXiv},
+  eprint    = {2004.10934},
+  timestamp = {Tue, 28 Apr 2020 16:10:02 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-10934.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/LinMBHPRDZ14,
+  author    = {Tsung{-}Yi Lin and
+               Michael Maire and
+               Serge J. Belongie and
+               Lubomir D. Bourdev and
+               Ross B. Girshick and
+               James Hays and
+               Pietro Perona and
+               Deva Ramanan and
+               Piotr Doll{\'{a}}r and
+               C. Lawrence Zitnick},
+  title     = {Microsoft {COCO:} Common Objects in Context},
+  journal   = {CoRR},
+  volume    = {abs/1405.0312},
+  year      = {2014},
+  url       = {http://arxiv.org/abs/1405.0312},
+  archivePrefix = {arXiv},
+  eprint    = {1405.0312},
+  timestamp = {Mon, 13 Aug 2018 16:48:13 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/LinMBHPRDZ14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2007-04639,
+  author    = {Mohbat Tharani and
+               Abdul Wahab Amin and
+               Mohammad Maaz and
+               Murtaza Taj},
+  title     = {Attention Neural Network for Trash Detection on Water Channels},
+  journal   = {CoRR},
+  volume    = {abs/2007.04639},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2007.04639},
+  archivePrefix = {arXiv},
+  eprint    = {2007.04639},
+  timestamp = {Mon, 20 Jul 2020 14:20:39 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2007-04639.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2007-08097,
+  author    = {Jungseok Hong and
+               Michael Fulton and
+               Junaed Sattar},
+  title     = {TrashCan: {A} Semantically-Segmented Dataset towards Visual Detection
+               of Marine Debris},
+  journal   = {CoRR},
+  volume    = {abs/2007.08097},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2007.08097},
+  archivePrefix = {arXiv},
+  eprint    = {2007.08097},
+  timestamp = {Wed, 22 Jul 2020 12:09:15 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2007-08097.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2103-13413,
+  author    = {Ren{\'{e}} Ranftl and
+               Alexey Bochkovskiy and
+               Vladlen Koltun},
+  title     = {Vision Transformers for Dense Prediction},
+  journal   = {CoRR},
+  volume    = {abs/2103.13413},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2103.13413},
+  archivePrefix = {arXiv},
+  eprint    = {2103.13413},
+  timestamp = {Wed, 07 Apr 2021 15:31:46 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2103-13413.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2103-14030,
+  author    = {Ze Liu and
+               Yutong Lin and
+               Yue Cao and
+               Han Hu and
+               Yixuan Wei and
+               Zheng Zhang and
+               Stephen Lin and
+               Baining Guo},
+  title     = {Swin Transformer: Hierarchical Vision Transformer using Shifted Windows},
+  journal   = {CoRR},
+  volume    = {abs/2103.14030},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2103.14030},
+  archivePrefix = {arXiv},
+  eprint    = {2103.14030},
+  timestamp = {Thu, 08 Apr 2021 07:53:26 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2103-14030.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1807-07543,
+  author    = {David Berthelot and
+               Colin Raffel and
+               Aurko Roy and
+               Ian J. Goodfellow},
+  title     = {Understanding and Improving Interpolation in Autoencoders via an Adversarial
+               Regularizer},
+  journal   = {CoRR},
+  volume    = {abs/1807.07543},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1807.07543},
+  archivePrefix = {arXiv},
+  eprint    = {1807.07543},
+  timestamp = {Mon, 13 Aug 2018 16:48:59 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1807-07543.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/RenHG015,
+  author    = {Shaoqing Ren and
+               Kaiming He and
+               Ross B. Girshick and
+               Jian Sun},
+  title     = {Faster {R-CNN:} Towards Real-Time Object Detection with Region Proposal
+               Networks},
+  journal   = {CoRR},
+  volume    = {abs/1506.01497},
+  year      = {2015},
+  url       = {http://arxiv.org/abs/1506.01497},
+  archivePrefix = {arXiv},
+  eprint    = {1506.01497},
+  timestamp = {Mon, 13 Aug 2018 16:46:02 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/RenHG015.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/RedmonDGF15,
+  author    = {Joseph Redmon and
+               Santosh Kumar Divvala and
+               Ross B. Girshick and
+               Ali Farhadi},
+  title     = {You Only Look Once: Unified, Real-Time Object Detection},
+  journal   = {CoRR},
+  volume    = {abs/1506.02640},
+  year      = {2015},
+  url       = {http://arxiv.org/abs/1506.02640},
+  archivePrefix = {arXiv},
+  eprint    = {1506.02640},
+  timestamp = {Mon, 13 Aug 2018 16:48:08 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/RedmonDGF15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/HeZRS15,
+  author    = {Kaiming He and
+               Xiangyu Zhang and
+               Shaoqing Ren and
+               Jian Sun},
+  title     = {Deep Residual Learning for Image Recognition},
+  journal   = {CoRR},
+  volume    = {abs/1512.03385},
+  year      = {2015},
+  url       = {http://arxiv.org/abs/1512.03385},
+  archivePrefix = {arXiv},
+  eprint    = {1512.03385},
+  timestamp = {Wed, 17 Apr 2019 17:23:45 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/HeZRS15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/ZhaoSQWJ16,
+  author    = {Hengshuang Zhao and
+               Jianping Shi and
+               Xiaojuan Qi and
+               Xiaogang Wang and
+               Jiaya Jia},
+  title     = {Pyramid Scene Parsing Network},
+  journal   = {CoRR},
+  volume    = {abs/1612.01105},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1612.01105},
+  archivePrefix = {arXiv},
+  eprint    = {1612.01105},
+  timestamp = {Mon, 13 Aug 2018 16:47:16 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/ZhaoSQWJ16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/LinDGHHB16,
+  author    = {Tsung{-}Yi Lin and
+               Piotr Doll{\'{a}}r and
+               Ross B. Girshick and
+               Kaiming He and
+               Bharath Hariharan and
+               Serge J. Belongie},
+  title     = {Feature Pyramid Networks for Object Detection},
+  journal   = {CoRR},
+  volume    = {abs/1612.03144},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1612.03144},
+  archivePrefix = {arXiv},
+  eprint    = {1612.03144},
+  timestamp = {Mon, 13 Aug 2018 16:48:50 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/LinDGHHB16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{article,
+author = {Hochreiter, Sepp and Schmidhuber, Jürgen},
+year = {1997},
+month = {12},
+pages = {1735-80},
+title = {Long Short-term Memory},
+volume = {9},
+journal = {Neural computation},
+doi = {10.1162/neco.1997.9.8.1735}
+}
+
+@article{article,
+author = {Valente, Miguel and Silva, Hélio and Caldeira, João and Soares, Vasco and Gaspar, Pedro},
+year = {2019},
+month = {03},
+pages = {11},
+title = {Detection of Waste Containers Using Computer Vision},
+volume = {2},
+journal = {Applied System Innovation},
+doi = {10.3390/asi2010011}
+}
+
+@inproceedings{inproceedings,
+author = {Carolis, Berardina and Ladogana, Francesco and Macchiarulo, Nicola},
+year = {2020},
+month = {05},
+pages = {1-7},
+title = {YOLO TrashNet: Garbage Detection in Video Streams},
+doi = {10.1109/EAIS48028.2020.9122693}
+}
+
+@INPROCEEDINGS{9249739,
+  author={Sultana, Rumana and Adams, Robert D. and Yan, Yanjun and Yanik, Paul M. and Tanaka, Martin L.},
+  booktitle={2020 SoutheastCon}, 
+  title={Trash and Recycled Material Identification using Convolutional Neural Networks (CNN)}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/SoutheastCon44009.2020.9249739}
+}
+
+@article{Liu_2018,
+	doi = {10.1088/1742-6596/1069/1/012032},
+	url = {https://doi.org/10.1088/1742-6596/1069/1/012032},
+	year = 2018,
+	month = {aug},
+	publisher = {{IOP} Publishing},
+	volume = {1069},
+	pages = {012032},
+	author = {Ying Liu and Zhishan Ge and Guoyun Lv and Shikai Wang},
+	title = {Research on Automatic Garbage Detection System Based on Deep Learning and Narrowband Internet of Things},
+	journal = {Journal of Physics: Conference Series}
+}
+
+
+

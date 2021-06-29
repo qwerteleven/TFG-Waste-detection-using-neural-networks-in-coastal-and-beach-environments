@@ -1,0 +1,81 @@
+airplane ,none
+apple ,Other
+backpack ,String/rope
+banana ,Other
+baseball bat          ,Other
+baseball glove ,String/rope
+bear ,none
+bed ,none
+bench ,Plastic 
+bicycle ,none
+bird ,none
+boat ,none
+book ,Carton
+bottle ,Plastic 
+bowl    ,Plastic 
+broccoli ,Other
+bus             ,none
+cake ,Other
+car ,none
+carrot,Other
+cat ,none
+cell phone ,Plastic 
+chair ,Plastic 
+clock,Plastic 
+couch,String/rope
+cup ,Can
+cup ,Cup
+dining table ,Plastic 
+dog          ,none
+donut ,Other
+elephant ,none
+fire hydrant           ,Metal
+fork ,Plastic 
+fork ,Metal
+frisbee               ,Plastic 
+giraffe              ,none
+hair drier ,Plastic 
+handbag ,String/rope
+horse ,none
+hot dog ,none
+keyboard ,Plastic 
+kite ,String/rope
+knife ,Metal
+laptop,Plastic 
+microwave,none
+motorcycle ,none
+mouse ,Plastic 
+orange ,Other
+oven ,Plastic 
+parking meter ,none
+person ,none
+pizza ,Other
+potted plant ,none
+refrigerator ,Metal
+remote ,Metal
+sandwich ,Other
+scissors ,Metal
+sheep ,none
+sink ,none
+skateboard ,Plastic 
+skis ,none
+snowboard ,Plastic 
+spoon ,Plastic 
+sports ball ,Plastic 
+stop sign ,none
+suitcase ,none
+surfboard ,Plastic 
+teddy bear ,none
+tennis racket       ,none
+tie ,none
+toaster ,Metal
+toilet ,none
+toothbrush,none
+traffic light ,none
+train ,none
+truck ,none
+tv ,none
+umbrella ,String/rope
+vase ,Glass
+wine glass ,Glass
+zebra ,none

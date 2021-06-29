@@ -1,0 +1,389 @@
+@article{mmdetection,
+  title   = {{MMDetection}: Open MMLab Detection Toolbox and Benchmark},
+  author  = {Chen, Kai and Wang, Jiaqi and Pang, Jiangmiao and Cao, Yuhang and
+             Xiong, Yu and Li, Xiaoxiao and Sun, Shuyang and Feng, Wansen and
+             Liu, Ziwei and Xu, Jiarui and Zhang, Zheng and Cheng, Dazhi and
+             Zhu, Chenchen and Cheng, Tianheng and Zhao, Qijie and Li, Buyu and
+             Lu, Xin and Zhu, Rui and Wu, Yue and Dai, Jifeng and Wang, Jingdong
+             and Shi, Jianping and Ouyang, Wanli and Loy, Chen Change and Lin, Dahua},
+  journal= {arXiv preprint arXiv:1906.07155},
+  year={2019}
+}
+
+@inproceedings{ren2015faster,
+  title={Faster r-cnn: Towards real-time object detection with region proposal networks},
+  author={Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian},
+  booktitle={Advances in neural information processing systems},
+  year={2015}
+}
+
+@inproceedings{girshick2015fast,
+  title={Fast r-cnn},
+  author={Girshick, Ross},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  year={2015}
+}
+
+@article{Ren_2017,
+   title={Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks},
+   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian},
+   year={2017},
+   month={Jun},
+}
+
+@article{He_2017,
+   title={Mask R-CNN},
+   journal={2017 IEEE International Conference on Computer Vision (ICCV)},
+   publisher={IEEE},
+   author={He, Kaiming and Gkioxari, Georgia and Dollar, Piotr and Girshick, Ross},
+   year={2017},
+   month={Oct}
+}
+@article{Cai_2019,
+   title={Cascade R-CNN: High Quality Object Detection and Instance Segmentation},
+   ISSN={1939-3539},
+   url={http://dx.doi.org/10.1109/tpami.2019.2956516},
+   DOI={10.1109/tpami.2019.2956516},
+   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Cai, Zhaowei and Vasconcelos, Nuno},
+   year={2019},
+   pages={1–1}
+}
+
+@article{Liu_2016,
+   title={SSD: Single Shot MultiBox Detector},
+   journal={ECCV},
+   author={Liu, Wei and Anguelov, Dragomir and Erhan, Dumitru and Szegedy, Christian and Reed, Scott and Fu, Cheng-Yang and Berg, Alexander C.},
+   year={2016},
+}
+
+@inproceedings{lin2017focal,
+  title={Focal loss for dense object detection},
+  author={Lin, Tsung-Yi and Goyal, Priya and Girshick, Ross and He, Kaiming and Doll{\'a}r, Piotr},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  year={2017}
+}
+
+@inproceedings{li2019gradient,
+  title={Gradient Harmonized Single-stage Detector},
+  author={Li, Buyu and Liu, Yu and Wang, Xiaogang},
+  booktitle={AAAI Conference on Artificial Intelligence},
+  year={2019}
+}
+
+@inproceedings{huang2019msrcnn,
+    title={Mask Scoring R-CNN},
+    author={Zhaojin Huang and Lichao Huang and Yongchao Gong and Chang Huang and Xinggang Wang},
+    booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+    year={2019},
+}
+
+@article{wu2019rethinking,
+    title={Rethinking Classification and Localization for Object Detection},
+    author={Yue Wu and Yinpeng Chen and Lu Yuan and Zicheng Liu and Lijuan Wang and Hongzhi Li and Yun Fu},
+    year={2019},
+    eprint={1904.06493},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+
+@inproceedings{chen2019hybrid,
+  title={Hybrid task cascade for instance segmentation},
+  author={Chen, Kai and Pang, Jiangmiao and Wang, Jiaqi and Xiong, Yu and Li, Xiaoxiao and Sun, Shuyang and Feng, Wansen and Liu, Ziwei and Shi, Jianping and Ouyang, Wanli and Chen Change Loy and Dahua Lin},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2019}
+}
+
+@inproceedings{pang2019libra,
+  title={Libra R-CNN: Towards Balanced Learning for Object Detection},
+  author={Pang, Jiangmiao and Chen, Kai and Shi, Jianping and Feng, Huajun and Ouyang, Wanli and Dahua Lin},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2019}
+}
+
+@inproceedings{wang2019region,
+    title={Region Proposal by Guided Anchoring},
+    author={Jiaqi Wang and Kai Chen and Shuo Yang and Chen Change Loy and Dahua Lin},
+    booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+    year={2019}
+}
+
+@article{tian2019fcos,
+  title={FCOS: Fully Convolutional One-Stage Object Detection},
+  author={Tian, Zhi and Shen, Chunhua and Chen, Hao and He, Tong},
+  journal={arXiv preprint arXiv:1904.01355},
+  year={2019}
+}
+
+@inproceedings{yang2019reppoints,
+  title={RepPoints: Point Set Representation for Object Detection},
+  author={Yang, Ze and Liu, Shaohui and Hu, Han and Wang, Liwei and Lin, Stephen},
+  booktitle={The IEEE International Conference on Computer Vision (ICCV)},
+  month={Oct},
+  year={2019}
+}
+
+@article{kong2019foveabox,
+  title={FoveaBox: Beyond Anchor-based Object Detector},
+  author={Kong, Tao and Sun, Fuchun and Liu, Huaping and Jiang, Yuning and Shi, Jianbo},
+  journal={arXiv preprint arXiv:1904.03797},
+  year={2019}
+}
+
+@inproceedings{zhang2019freeanchor,
+  title   =  {{FreeAnchor}: Learning to Match Anchors for Visual Object Detection},
+  author  =  {Zhang, Xiaosong and Wan, Fang and Liu, Chang and Ji, Rongrong and Ye, Qixiang},
+  booktitle =  {Neural Information Processing Systems},
+  year    =  {2019}
+}
+
+@inproceedings{ghiasi2019fpn,
+  title={Nas-fpn: Learning scalable feature pyramid architecture for object detection},
+  author={Ghiasi, Golnaz and Lin, Tsung-Yi and Le, Quoc V},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={7036--7045},
+  year={2019}
+}
+
+@article{zhang2019bridging,
+  title   =  {Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection},
+  author  =  {Zhang, Shifeng and Chi, Cheng and Yao, Yongqiang and Lei, Zhen and Li, Stan Z.},
+  journal =  {arXiv preprint arXiv:1912.02424},
+  year    =  {2019}
+}
+
+@inproceedings{zhu2019feature,
+  title={Feature Selective Anchor-Free Module for Single-Shot Object Detection},
+  author={Zhu, Chenchen and He, Yihui and Savvides, Marios},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={840--849},
+  year={2019}
+}
+
+@inproceedings{liu2018path,
+  author = {Shu Liu and
+            Lu Qi and
+            Haifang Qin and
+            Jianping Shi and
+            Jiaya Jia},
+  title = {Path Aggregation Network for Instance Segmentation},
+  booktitle = {Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2018}
+}
+
+@article{DynamicRCNN,
+    author = {Hongkai Zhang and Hong Chang and Bingpeng Ma and Naiyan Wang and Xilin Chen},
+    title = {Dynamic {R-CNN}: Towards High Quality Object Detection via Dynamic Training},
+    journal = {arXiv preprint arXiv:2004.06002},
+    year = {2020}
+}
+
+@InProceedings{kirillov2019pointrend,
+  title={{PointRend}: Image Segmentation as Rendering},
+  author={Alexander Kirillov and Yuxin Wu and Kaiming He and Ross Girshick},
+  journal={ArXiv:1912.08193},
+  year={2019}
+}
+
+@inproceedings{Wang_2019_ICCV,
+    title = {CARAFE: Content-Aware ReAssembly of FEatures},
+    author = {Wang, Jiaqi and Chen, Kai and Xu, Rui and Liu, Ziwei and Loy, Chen Change and Lin, Dahua},
+    booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+    month = {October},
+    year = {2019}
+}
+
+@inproceedings{dai2017deformable,
+  title={Deformable Convolutional Networks},
+  author={Dai, Jifeng and Qi, Haozhi and Xiong, Yuwen and Li, Yi and Zhang, Guodong and Hu, Han and Wei, Yichen},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  year={2017}
+}
+
+@article{zhu2018deformable,
+  title={Deformable ConvNets v2: More Deformable, Better Results},
+  author={Zhu, Xizhou and Hu, Han and Lin, Stephen and Dai, Jifeng},
+  journal={arXiv preprint arXiv:1811.11168},
+  year={2018}
+}
+
+@inproceedings{wu2018group,
+  title={Group Normalization},
+  author={Wu, Yuxin and He, Kaiming},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2018}
+}
+
+@article{weightstandardization,
+  author    = {Siyuan Qiao and Huiyu Wang and Chenxi Liu and Wei Shen and Alan Yuille},
+  title     = {Weight Standardization},
+  journal   = {arXiv preprint arXiv:1903.10520},
+  year      = {2019},
+}
+
+@article{zhu2019empirical,
+  title={An Empirical Study of Spatial Attention Mechanisms in Deep Networks},
+  author={Zhu, Xizhou and Cheng, Dazhi and Zhang, Zheng and Lin, Stephen and Dai, Jifeng},
+  journal={arXiv preprint arXiv:1904.05873},
+  year={2019}
+}
+
+@article{cao2019GCNet,
+  title={GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond},
+  author={Cao, Yue and Xu, Jiarui and Lin, Stephen and Wei, Fangyun and Hu, Han},
+  journal={arXiv preprint arXiv:1904.11492},
+  year={2019}
+}
+
+@article{micikevicius2017mixed,
+  title={Mixed precision training},
+  author={Micikevicius, Paulius and Narang, Sharan and Alben, Jonah and Diamos, Gregory and Elsen, Erich and Garcia, David and Ginsburg, Boris and Houston, Michael and Kuchaiev, Oleksii and Venkatesh, Ganesh and others},
+  journal={arXiv preprint arXiv:1710.03740},
+  year={2017}
+}
+
+@inproceedings{fang2019instaboost,
+  title={Instaboost: Boosting instance segmentation via probability map guided copy-pasting},
+  author={Fang, Hao-Shu and Sun, Jianhua and Wang, Runzhong and Gou, Minghao and Li, Yong-Lu and Lu, Cewu},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={682--691},
+  year={2019}
+}
+
+@misc{rossi2020novel,
+    title={A novel Region of Interest Extraction Layer for Instance Segmentation},
+    author={Leonardo Rossi and Akbar Karimi and Andrea Prati},
+    year={2020},
+    eprint={2004.13665},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+
+@article{qiao2020detectors,
+  title={DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution},
+  author={Qiao, Siyuan and Chen, Liang-Chieh and Yuille, Alan},
+  journal={arXiv preprint arXiv:2006.02334},
+  year={2020}
+}
+
+@article{li2020generalized,
+  title={Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection},
+  author={Li, Xiang and Wang, Wenhai and Wu, Lijun and Chen, Shuo and Hu, Xiaolin and Li, Jun and Tang, Jinhui and Yang, Jian},
+  journal={arXiv preprint arXiv:2006.04388},
+  year={2020}
+}
+
+@inproceedings{law2018cornernet,
+  title={Cornernet: Detecting objects as paired keypoints},
+  author={Law, Hei and Deng, Jia},
+  booktitle={15th European Conference on Computer Vision, ECCV 2018},
+  pages={765--781},
+  year={2018},
+  organization={Springer Verlag}
+}
+
+@inproceedings{Wang_2020_ECCV,
+    title = {Side-Aware Boundary Localization for More Precise Object Detection},
+    author = {Jiaqi Wang and Wenwei Zhang and Yuhang Cao and Kai Chen and Jiangmiao Pang and Tao Gong and Jianping Shi and Chen Change Loy and Dahua Lin},
+    booktitle = {ECCV},
+    year = {2020}
+}
+
+@misc{redmon2018yolov3,
+    title={YOLOv3: An Incremental Improvement},
+    author={Joseph Redmon and Ali Farhadi},
+    year={2018},
+    eprint={1804.02767},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+
+@inproceedings{paa-eccv2020,
+  title={Probabilistic Anchor Assignment with IoU Prediction for Object Detection},
+  author={Kim, Kang and Lee, Hee Seok},
+  booktitle = {ECCV},
+  year={2020}
+}
+
+@inproceedings{yolact-iccv2019,
+  author    = {Daniel Bolya and Chong Zhou and Fanyi Xiao and Yong Jae Lee},
+  title     = {YOLACT: {Real-time} Instance Segmentation},
+  booktitle = {ICCV},
+  year      = {2019},
+}
+
+@InProceedings{Dong_2020_CVPR,
+author = {Dong, Zhiwei and Li, Guoxuan and Liao, Yue and Wang, Fei and Ren, Pengju and Qian, Chen},
+title = {CentripetalNet: Pursuing High-Quality Keypoint Pairs for Object Detection},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
+
+@article{zhang2020varifocalnet,
+  title={VarifocalNet: An IoU-aware Dense Object Detector},
+  author={Zhang, Haoyang and Wang, Ying and Dayoub, Feras and S{\"u}nderhauf, Niko},
+  journal={arXiv preprint arXiv:2008.13367},
+  year={2020}
+}
+
+@inproceedings{detr,
+  author    = {Nicolas Carion and
+               Francisco Massa and
+               Gabriel Synnaeve and
+               Nicolas Usunier and
+               Alexander Kirillov and
+               Sergey Zagoruyko},
+  title     = {End-to-End Object Detection with Transformers},
+  booktitle = {ECCV},
+  year      = {2020}
+}
+
+@inproceedings{
+zhu2021deformable,
+title={Deformable DETR: Deformable Transformers for End-to-End Object Detection},
+author={Xizhou Zhu and Weijie Su and Lewei Lu and Bin Li and Xiaogang Wang and Jifeng Dai},
+booktitle={International Conference on Learning Representations},
+year={2021},
+url={https://openreview.net/forum?id=gZ9hCDWe6ke}
+}
+
+@inproceedings{vu2019cascade,
+  title={Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution},
+  author={Vu, Thang and Jang, Hyunjun and Pham, Trung X and Yoo, Chang D},
+  booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+  year={2019}
+}
+
+@inproceedings{vu2019cascade,
+  title={SCNet: Training Inference Sample Consistency for Instance Segmentation},
+  author={Vu, Thang and Haeyong, Kang and Yoo, Chang D},
+  booktitle={AAAI},
+  year={2021}
+}
+
+@article{zhu2020autoassign,
+  title={AutoAssign: Differentiable Label Assignment for Dense Object Detection},
+  author={Zhu, Benjin and Wang, Jianfeng and Jiang, Zhengkai and Zong, Fuhang and Liu, Songtao and Li, Zeming and Sun, Jian},
+  journal={arXiv preprint arXiv:2007.03496},
+  year={2020}
+}
+
+@inproceedings{chen2021you,
+  title={You Only Look One-level Feature},
+  author={Chen, Qiang and Wang, Yingming and Yang, Tong and Zhang, Xiangyu and Cheng, Jian and Sun, Jian},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2021}
+}
+
+@article{zhou2019objects,
+  title={Objects as Points},
+  author={Zhou, Xingyi and Wang, Dequan and Kr{\"a}henb{\"u}hl, Philipp},
+  booktitle={arXiv preprint arXiv:1904.07850},
+  year={2019}
+}
+
+
