@@ -59,8 +59,7 @@ For each model, detections are matched against TACO ground-truth annotations via
 | [Precision](https://en.wikipedia.org/wiki/Precision_and_recall) | TP / (TP + FP) |
 | [Recall](https://en.wikipedia.org/wiki/Precision_and_recall) | TP / (TP + FN) |
 | [F1 score](https://en.wikipedia.org/wiki/F-score) | 2 × (Precision × Recall) / (Precision + Recall) |
-| TPR | TP / (TP + FN) |
-| FPR | FP / (FP + TN) |
+
 
 Results are written to CSV files in `RESULTS/Metricas/`.
 
