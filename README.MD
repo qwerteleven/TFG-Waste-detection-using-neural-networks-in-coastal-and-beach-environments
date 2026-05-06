@@ -2,6 +2,8 @@
 
 A final-year thesis project (TFG) benchmarking pre-trained [object detection](https://en.wikipedia.org/wiki/Object_detection) models for identifying litter in coastal and beach imagery. Models from [Detectron2](https://github.com/facebookresearch/detectron2) and [MMDetection](https://github.com/open-mmlab/mmdetection) are evaluated against the [TACO](http://tacodataset.org/) dataset using a custom class-mapping pipeline, with results exported as CSV and LaTeX tables.
 
+[PDF Document](https://accedacris.ulpgc.es/handle/10553/109142)
+
 ---
 
 ## Goal
